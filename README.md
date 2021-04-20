@@ -13,6 +13,7 @@ Red River Gorge National Geological Area
 
 ![Grey's Arch img](graphics/a3.jpg) Image of Victor near Grey's Arch performing high angle medical resuce training. This is reppelling down a rock wall. Image owned by Victor V.
 
-![Grey's Arch img](graphics/a4.jpg) Image of Victor near Grey's Arch performing high angle medical resuce training. This is Victor about to go over the edge of a cliff. Image owned by Victor V.
+![Grey's Arch img](graphics/a4.jpg) 
+Image of Victor near Grey's Arch performing high angle medical resuce training. This is Victor about to go over the edge of a cliff. Image owned by Victor V.
 
 https://vtva222.github.io/rrg/
