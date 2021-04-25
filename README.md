@@ -17,7 +17,8 @@ Red River Gorge National Geological Area
 Image of Victor near Grey's Arch performing high angle medical resuce training. This is Victor about to go over the edge of a cliff. Image owned by Victor V.
 
 ![Grey's Arch map](graphics/LidarMap.jpg) Map showing the cliff used for the 2021 High Angle Medical Rescue training
+## Animation
 
-[HAMR Cliff Animation](https://youtu.be/xXpu7h5Dgn4) Link to animation showing the cliff area and the surroundings
-
+[Click here for HAMR Cliff Animation](https://youtu.be/xXpu7h5Dgn4)
+![screenshot of video](graphics/Screenshot.JPG)
 https://vtva222.github.io/rrg/
