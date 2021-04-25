@@ -18,6 +18,6 @@ Image of Victor near Grey's Arch performing high angle medical resuce training. 
 
 ![Grey's Arch map](graphics/LidarMap.jpg) Map showing the cliff used for the 2021 High Angle Medical Rescue training
 
-### Link to animation showing the cliff area and the surroundings https://youtu.be/xXpu7h5Dgn4
+[HAMR Cliff Animation](https://youtu.be/xXpu7h5Dgn4) Link to animation showing the cliff area and the surroundings
 
 https://vtva222.github.io/rrg/
