@@ -13,7 +13,8 @@ Red River Gorge National Geological Area
 
 ![Grey's Arch img](graphics/a3.jpg) Image of Victor near Grey's Arch performing high angle medical resuce training. This is reppelling down a rock wall. Image owned by Victor V.
 
-![Grey's Arch img](graphics/a4.jpg) Image of Victor near Grey's Arch performing high angle medical resuce training. This is Victor about to go over the edge of a cliff. Image owned by Victor V.
+![Grey's Arch img](graphics/a4.jpg)  
+Image of Victor near Grey's Arch performing high angle medical resuce training. This is Victor about to go over the edge of a cliff. Image owned by Victor V.
 
 ![Grey's Arch map](graphics/LidarMap.jpeg) Map showing the cliff used for the 2021 High Angle Medical Rescue training
 
