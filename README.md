@@ -22,5 +22,7 @@ Image of Victor near Grey's Arch performing high angle medical resuce training. 
 [Click here for HAMR Cliff Animation](https://youtu.be/xXpu7h5Dgn4)
 ![screenshot of video](graphics/Screenshot.JPG)
 https://vtva222.github.io/rrg/
+
 https://vtva222.github.io/rrg/site-map/ Map of the Natural Bridge area
+
 https://vtva222.github.io/rrg/tour/ Tour of the UK Waveland farm 
